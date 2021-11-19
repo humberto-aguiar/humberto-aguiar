@@ -25,7 +25,7 @@ My name is Humberto Aguiar de Souza Filho. I am a 25-year-old Brazilian data sci
 
 **Data Processing and Analysis**: Python, R, Pandas, Numpy, Seaborn, Scikit-learn, Scikit-Optmize, XGBoost, Boruta, BeautifulSoup.
 
-**Development**: Git.
+**Development**: Git, Linux.
 
 **Data Visualization**: Power BI, Streamlit.
 
