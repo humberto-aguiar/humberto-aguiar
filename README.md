@@ -16,6 +16,7 @@ My name is Humberto Aguiar de Souza Filho. I am a 25-year-old Brazilian data sci
 #### My projects:
 
 ✨ Time Series Regression Applied to Sales Forecasting [click here](https://github.com/humberto-aguiar/Rossmann-Sales-Forecast)
+✨ Classification Applied to Customer Churn Prevention [click here](https://github.com/humberto-aguiar/churn_prediction)
 
 -----
 
