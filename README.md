@@ -19,21 +19,23 @@ My name is Humberto Aguiar de Souza Filho. I am a 25-year-old Brazilian data sci
 
 ✨ Classification Applied to Customer Churn Prevention [click here](https://github.com/humberto-aguiar/churn_prediction)
 
+✨ Clustering Applied to Customer Segmentation in e-commerce [click here](https://github.com/humberto-aguiar/Insiders-Loyalty-Program)
+
 -----
 
 #### 🛠️ Analytical Tools: 
 
-**Data Collecting**: SQL, MySQL, DBeaver, SQLite.
+**Data Collecting**: SQL, MySQL, PostgreSQL, DBeaver, SQLite.
 
-**Data Processing and Analysis**: Python, R, Pandas, Numpy, Seaborn, Scikit-learn, Scikit-Optmize, XGBoost, Boruta, BeautifulSoup.
+**Data Processing and Analysis**: Python, R, Pandas, Numpy, Seaborn, Scikit-learn, Scikit-Optimize, XGBoost, Boruta, BeautifulSoup.
 
 **Development**: Git, Linux.
 
-**Data Visualization**: Power BI, Streamlit.
+**Data Visualization**: Power BI, Streamlit, Metabase.
 
 **Machine Learning Modeling**: Regression, Clustering, Classification.
 
-**Machine Learning Deployment**: Heroku.
+**Machine Learning Deployment**: Heroku, AWS (EC2, S3, RDS).
 
 ------
 #### About me:
