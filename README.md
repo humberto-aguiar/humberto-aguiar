@@ -21,13 +21,15 @@ My name is Humberto Aguiar de Souza Filho. I am a 25-year-old Brazilian data sci
 
 ✨ Clustering Applied to Customer Segmentation in e-commerce [click here](https://github.com/humberto-aguiar/Insiders-Loyalty-Program)
 
+✨ Web Scraping Applied to Jeans Retail Insights (in progress) [click here](https://github.com/humberto-aguiar/Web-Scraping-Jeans)
+
 -----
 
 #### 🛠️ Analytical Tools: 
 
 **Data Collecting**: SQL, MySQL, PostgreSQL, DBeaver, SQLite.
 
-**Data Processing and Analysis**: Python, R, Spark, Databricks, Pandas, Numpy, Seaborn, Scikit-learn, Scikit-Optimize, XGBoost, Boruta, BeautifulSoup.
+**Data Processing and Analysis**: Python, R, Spark, Databricks, Pandas, Numpy, Seaborn, Scikit-learn, Scikit-Optimize, XGBoost, Boruta, BeautifulSoup, Selenium.
 
 **Development**: Git, Linux.
 
