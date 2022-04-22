@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 -->
 
-My name is Humberto Aguiar de Souza Filho. I am a 25-year-old Brazilian data scientist looking for an entry-level job in the field of data science. I graduated in mechanical engineering in 2020 but decided to use my analytical skills to build data solutions. Please check out my Data Science Portfolio, some new projects are on their way soon! It would also be a pleasure to be part of your network on LinkedIn, feel free to contact me anytime 🙂.
+My name is Humberto Aguiar de Souza Filho. I am a 25-year-old Brazilian data scientist looking for an entry-level job. I earned a bachelor's degree in Mechanical Engineering in 2020 but decided to use my analytical skills to build data solutions. Please check out my Data Science Portfolio. Some new projects are on their way soon! It would be a pleasure to be part of your network on LinkedIn. Feel free to contact me anytime 🙂.
 
 #### My projects:
 
@@ -22,6 +22,8 @@ My name is Humberto Aguiar de Souza Filho. I am a 25-year-old Brazilian data sci
 ✨ Clustering Applied to Customer Segmentation in e-commerce [click here](https://github.com/humberto-aguiar/Insiders-Loyalty-Program)
 
 ✨ Web Scraping Applied to Jeans Retail Insights (in progress) [click here](https://github.com/humberto-aguiar/Web-Scraping-Jeans)
+
+✨ Fraud Detection using Spark (in progress) [click here](https://github.com/humberto-aguiar/Fraud_Detection)
 
 -----
 
@@ -37,7 +39,7 @@ My name is Humberto Aguiar de Souza Filho. I am a 25-year-old Brazilian data sci
 
 **Machine Learning Modeling**: Regression, Clustering, Classification.
 
-**Machine Learning Deployment**: Heroku, AWS (EC2, S3, RDS).
+**Machine Learning Deployment**: Heroku, AWS (EC2, S3, RDS, Lambda).
 
 ------
 #### About me:
